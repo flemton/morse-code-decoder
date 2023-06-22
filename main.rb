@@ -49,3 +49,9 @@ end
 def decode(morse_message)
   morse_message.split('   ').map { |word| decode_word(word) }.join(' ')
 end
+
+#added test case
+message = '.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'
+puts decode(message) #=> "A BOX FULL OF RUBIES"
+
+puts decode('-- -.--   -. .- -- .') # MY NAME
