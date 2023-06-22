@@ -1,14 +1,3 @@
-<a name="readme-top"></a>
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -32,7 +21,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Morse Code Decoder] <a name="about-project"></a>
+# 📖 Morse Code Decoder <a name="about-project"></a>
 
 **[Morse Code Decoder]** provides methods to decode individual Morse code characters, words, and complete messages by utilizing a predefined mapping of Morse code sequences to corresponding characters.
 
