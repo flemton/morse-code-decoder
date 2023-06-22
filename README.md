@@ -98,6 +98,12 @@ To run tests, run the following command:
 - Twitter: [@ulzurrunfede](https://mobile.twitter.com/ulzurrunfede)
 - LinkedIn: [Federica Ulzurrun](https://www.linkedin.com/in/federicaulzurrun/)
 
+👤 **Alhassan Osman**
+
+- GitHub: [@flemton](https://github.com/flemton)
+- Twitter: [@oalhassan847](https://mobile.twitter.com/oalhassan847)
+- LinkedIn: [Alhassan Osman](https://www.linkedin.com/in/newtongh/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
