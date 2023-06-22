@@ -35,8 +35,8 @@ MORSE_CODES = {
   '--...' => '7',
   '---..' => '8',
   '----.' => '9',
-  '-----' => '0',
-}
+  '-----' => '0'
+}.freeze
 
 def decode_char(character)
   MORSE_CODES[character]
@@ -50,7 +50,7 @@ def decode(morse_message)
   morse_message.split('   ').map { |word| decode_word(word) }.join(' ')
 end
 
-#added test case
+# added test case
 message = '.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'
 puts decode(message) #=> "A BOX FULL OF RUBIES"
 
